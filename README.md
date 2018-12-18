@@ -1,6 +1,6 @@
 # Homekit-accessory使用设置
 
-## Homekit-Garage-Door-Opener设置使用指南
+## bi4wms车库门控制器设置使用指南
 
 https://github.com/xfce/Homekit-accessory/wiki/Bi4wms_Homekit_Garage_Door_Opener--User-Guide
 
